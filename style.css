@@ -2,18 +2,18 @@ h1{
     color: olive;
 
 }
-button{
+#btn{
     background-color: lightgreen;
     font-size: medium;
     font-family:monospace;
     border-radius: 4px;
     border-color: chartreuse;
 }
-button:hover{
+#btn:hover{
     background-color:green;
     font-size: large;
 
 }
-button:active{
+#btn:active{
     background-color:yellow;
 }
