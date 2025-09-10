@@ -43,11 +43,13 @@ button:active{
 }
 
 .nav{
-    margin-top:120px;
+    margin-top:100px;
     display:flex;
     flex-wrap:wrap;
     gap:0.2rem;
-    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    padding:1rem 0 ;
 }
 .homepage{
     background-color:aliceblue;
@@ -143,4 +145,79 @@ button:active{
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+/*Sub files styling*/
+#icohome{
+    display: flex;
+    position:fixed;
+    font-size: 1.2rem;
+    background-color:rgb(5, 67, 24);
+    color:rgb(150, 172, 149);
+    justify-content: center;
+    height:50px;
+    width:75px;
+    align-items: center;
+    
+}
+
+#navsub{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0%;
+
+    flex-direction:row;
+    justify-self:start;
+}
+.hsub{
+    color: rgb(198, 229, 208);
+    font-family: sans-serif;
+    font-size: 20px;
+    background: fixed;
+    background-color: rgb(40, 111, 58);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width:100%;
+    margin-right: 0%;
+    flex-wrap:nowrap;
+    padding: 1rem 0;
+    border-radius: 10px;
+    
+}
+.budget-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 100%;
+    margin: 2rem auto;
+    background: #9fe2a5;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 3px rgb(32, 100, 32);
+}
+.budget-form label {
+    font-weight: bold;
+    color:rgb(26, 47, 26);
+    font-family: sans-serif;
+}
+.budget-form input,
+.budget-form select {
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    
+}
+.budget-form button {
+    background:rgb(46, 108, 46);
+    color:whitesmoke;
+    border: none;
+    border-radius: 6px;
+    padding: 0.75rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.budget-form button:hover {
+    background:rgb(22, 178, 144);
 }
