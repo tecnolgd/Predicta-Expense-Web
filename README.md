@@ -1,6 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Static-website-blue)
 
-# Predicta Expense WEB   
+# Predicta Expense WEB 🌐💰🔮 
+ ![Sample Output](logo.png)
 ### An user friendly web interface with clean UI and smooth UX, based on the '***PredictaExpense-cpp***' CLI.
 ### The web interface incorporates essentials of HTML5 and CSS with modular file approach for easier readability,scaling and updating.
 ---
@@ -51,6 +52,7 @@
 ---
 #### Author   
   tecnolgd
+
 
 
 
