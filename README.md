@@ -19,6 +19,7 @@
   Basic Front-end development
 * Concepts practiced:
      * Modular file programming
+     * Core HTML5
      * Inline CSS
      * External CSS
 * Inetrface:
@@ -50,6 +51,7 @@
 ---
 #### Author   
   tecnolgd
+
 
 
 
