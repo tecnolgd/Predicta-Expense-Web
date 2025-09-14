@@ -1,46 +1,42 @@
+<!--HTML code for expense logging webpage-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/png" href="favicon_1.png">
 
-    <link rel="icon" type="image/png" href="favicon_1.png">
-
-    <a href="index.html"><button id="icohome"><i class="fas fa-home"></i></button></a>
-
+        <a href="index.html"><button id="icohome"><i class="fas fa-home"></i></button></a>
 
     </head>
 
-    
-</html>
-<body>
-    <header id="navsub">
-    <nav class="nav">
-        <div class="hsub">Add EXPENSE</div><br>
-            <a href="budget.html"><button>Add BUDGET</button></a>
-            <a href="warnings.html"><button>WARNINGS</button></a>
-            <a href="log.html"><button>Expense LOG</button></a>
-            <a href="insights.html"><button>Insights AND Strategies</button></a>
+    <body>
+        <header id="navsub">
+            <nav class="nav">
+                <div class="hsub">Add EXPENSE</div><br>
+                    <a href="budget.html"><button>Add BUDGET</button></a>
+                    <a href="warnings.html"><button>WARNINGS</button></a>
+                    <a href="log.html"><button>Expense LOG</button></a>
+                    <a href="insights.html"><button>Insights AND Strategies</button></a>
             
-        </nav>
-</header>
+            </nav>
+        </header>
 
-<main class="homepage">
-    <section class="section">
-        <h2>Log your Expenses</h2>
-        <form class="budget-form">
-            <label for="source">Source:</label>
-            <input type="text" id="source" name="text" required placeholder="Enter Source/Item","text">
-              <label for="cost">Cost:</label>
-            <input type="number" id="cost" name="number" required placeholder="Enter cost", "number">
-            <button type="submit">Submit</button>
-            <button type="reset">Reset</button>
-        </form>
-    </section>
-</main>
+        <main class="homepage">
+            <section class="section">
+                <h2>Log your Expenses</h2>
+                    <form class="budget-form">
+                        <label for="source">Source:</label>
+                        <input type="text" id="source" name="text" required placeholder="Enter Source/Item","text">
+                        <label for="cost">Cost:</label>
+                        <input type="number" id="cost" name="number" required placeholder="Enter cost", "number">
+                        <button type="submit">Submit</button>
+                        <button type="reset">Reset</button>
+                    </form>
+            </section>
+        </main>
 
-
-
-</body>
+    </body>
+</html>
