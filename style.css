@@ -1,22 +1,15 @@
 #h1d{
-
     color: rgb(51, 51, 4);
     font-family: "sansita","Press Start 2P",sans serif;
     font-size:50px;
     margin: 0%;
     padding: 0%;
-    
-
-
 }
 #h2id{
     color: rgb(34, 47, 45);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-
 }
-
-    
 button{
     background-color: lightgreen;
     font-size: medium;
@@ -32,9 +25,6 @@ button{
     text-align:center;
     transition: background 0.2s;
     cursor: pointer;
-
-    
-
 }
 button:hover{
     background-color:rgb(49, 171, 49);
@@ -43,7 +33,7 @@ button:hover{
 button:active{
     background-color:darkolivegreen;
 }
-
+/*nav-bar styling*/
 .nav{
     margin-top:0.5rem;
     display:flex;
@@ -55,6 +45,7 @@ button:active{
     flex-direction: row;
     align-items: center;
 }
+/*homepage styling*/
 .homepage{
     background-color:aliceblue;
     padding: 4rem;
@@ -70,26 +61,25 @@ button:active{
     background-position:right;
     justify-content: flex-start;
     gap: 0.5rem;
-    
 }
-.site-logo {
-    
 
+.site-logo {
     height:100px;
     width:auto;
     vertical-align:middle;
     display:inline-block;
 }
+
 @media(max-width: 600px)
 {
-.site-logo {
-        height:100px;
-        margin-right: 0.5rem;
+    .site-logo {
+            height:100px;
+            margin-right: 0.5rem;
     }
     .header {
-    flex-direction: column;
-    align-items:center;
-    padding: 1 rem;
+        flex-direction: column;
+        align-items:center;
+        padding: 1 rem;
     }
     .nav{
         width:auto;
@@ -97,10 +87,6 @@ button:active{
         justify-content: center;
     }
 }
-
-
-
-
 
 .section{
     font-family: sans-serif;
@@ -117,8 +103,8 @@ button:active{
     box-sizing:border-box;
     box-shadow: 4px;
     font-family: sans-serif;
-
 }
+
 .features{
     background:rgb(220, 251, 226);
     color:rgb(28, 42, 42);
@@ -133,29 +119,22 @@ button:active{
     justify-items: center;
     text-align: center;
     transition: box-shadow 1s;
-    
 }
 .features:hover{
     background: rgb(192, 244, 217);
-    ;
 }
+
 @media(max-width: 800px){
-.mainfeatures{
+    .mainfeatures{
         flex-direction: column;
         align-items: center;
         gap: 1rem;
     }
     .features{
         width: 90%;
-        
     }
-
 }
     
-
-
-
-
 .footer{
     background-color:rgb(43, 71, 42);
     color:whitesmoke;
@@ -166,7 +145,8 @@ button:active{
     bottom: 0;
 }
 /*Sub files styling*/
-#icohome{
+
+#icohome{ /*hompage icon styling*/
     display: flex;
     position:fixed;
     font-size: 1.2rem;
@@ -176,17 +156,16 @@ button:active{
     height:50px;
     width:75px;
     align-items: center;
-    
 }
 
 #navsub{
     display: flex;
     flex-wrap: wrap;
     margin-top: 0%;
-
     flex-direction:row;
     justify-self:start;
 }
+
 .hsub{
     color: rgb(198, 229, 208);
     font-family: sans-serif;
@@ -201,8 +180,8 @@ button:active{
     flex-wrap:nowrap;
     padding: 1rem 0;
     border-radius: 10px;
-    
 }
+/*budget setting webpage styling*/
 .budget-form {
     display: flex;
     flex-direction: column;
@@ -241,4 +220,4 @@ button:active{
     background:rgb(22, 178, 144);
 }
 
-/*warnings box css*/
+
