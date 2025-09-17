@@ -11,7 +11,7 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
-button{
+button{ /*navigation button styling*/
     background-color: lightgreen;
     font-size: medium;
     padding: 1rem 2 rem;
@@ -27,6 +27,7 @@ button{
     transition: background 0.2s;
     cursor: pointer;
 }
+/*navigation button effects*/
 button:hover{
     background-color:rgb(49, 171, 49);
     font-size: large;
@@ -63,7 +64,7 @@ button:active{
     justify-content: flex-start;
     gap: 0.5rem;
 }
-
+/*Predicta Expense logo styling*/
 .site-logo {
     height:100px;
     width:auto;
@@ -145,8 +146,8 @@ button:active{
     width: 100%;
     bottom: 0;
 }
-/*Sub files styling*/
 
+/*Sub files styling*/
 #icohome{ /*hompage icon styling*/
     display: flex;
     position:fixed;
