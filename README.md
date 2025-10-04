@@ -43,10 +43,11 @@
 * Add new data representation.
 * Convert to **full stack front-end**.
 
-## Recent add-ons(coming soon!)
+## Recent add-ons ➕
 - [ ] Sample screenshots
 - [ ] Comments in source code
 - [ ] Code indentation and clean-up
+- [ ] Coming soon !
 
 ## Value this repo?💫     
 * If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
