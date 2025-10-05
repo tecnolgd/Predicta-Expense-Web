@@ -27,13 +27,10 @@
      * External CSS
 * Inetrface:
   **Web-based** (GUI)
-      
 
 ## How to RUN 🔛
 * Open the link given below to access the website :
       ***weblink***
-
-  
 
 ## Future Upgrades  🚀🚀
 * Refractor of code using Javascript.
