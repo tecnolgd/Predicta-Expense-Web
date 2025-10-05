@@ -5,7 +5,7 @@
  ![Sample Output](logo.png)
  
 ### An user friendly web interface with clean UI and smooth UX, based on the '***PredictaExpense-cpp***' CLI.
-### The web interface incorporates essentials of HTML5 and CSS with modular file approach for easier *readability*, *scaling* and *updating*.
+### The web interface incorporates essentials of HTML5 and CSS with modular file approach for easier **readability**, **scaling** and **updating**.
 ---
 ## Features ⚙️
 * User friendly interface
@@ -16,8 +16,8 @@
 
 ## Tech stack 🪛🪛
 * Languages:
-  * HTML5
-  * CSS
+  * **HTML5**
+  * **CSS**
 * Paradigm:
   Basic Front-end development
 * Concepts practiced:
@@ -47,7 +47,7 @@
 - [ ] Sample screenshots
 - [ ] Comments in source code
 - [ ] Code indentation and clean-up
-- [ ] Front-end deployment
+- [ ] **Front-end deployment**
 - [ ] Coming soon !
 
 ## Value this repo?💫     
