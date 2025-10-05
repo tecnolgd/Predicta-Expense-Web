@@ -47,6 +47,7 @@
 - [ ] Sample screenshots
 - [ ] Comments in source code
 - [ ] Code indentation and clean-up
+- [ ] Front-end deployment
 - [ ] Coming soon !
 
 ## Value this repo?💫     
