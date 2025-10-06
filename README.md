@@ -29,8 +29,8 @@
   **Web-based** (GUI)
 
 ## How to RUN 🔛
-* Open the link given below to access the website :
-      ***weblink***
+* Open the live link given below to access the website :
+      ***weblink*** (*by github pages*)
 
 ## Future Upgrades  🚀🚀
 * Refractor of code using Javascript.
