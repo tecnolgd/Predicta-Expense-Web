@@ -31,6 +31,7 @@ button{ /*navigation button styling*/
 button:hover{
     background-color:rgb(49, 171, 49);
     font-size: large;
+    transition: 0.2s;
     }
 button:active{
     background-color:darkolivegreen;
@@ -46,6 +47,7 @@ button:active{
     padding:1rem 0 ;
     flex-direction: row;
     align-items: center;
+    transition: 0.2s;
 }
 /*homepage styling*/
 .homepage{
@@ -148,17 +150,24 @@ button:active{
 }
 
 /*Sub files styling*/
-#icohome{ /*hompage icon styling*/
+.icohome{ /*hompage icon styling*/
     display: flex;
     position:fixed;
     font-size: 1.2rem;
-    background-color:rgb(5, 67, 24);
-    color:rgb(150, 172, 149);
+    background-color:rgb(7, 65, 41);
+    color:rgb(197, 212, 207);
     justify-content: center;
     height:50px;
     width:75px;
     align-items: center;
+    transition: background 0.2s;
 }
+.icohome:hover{ /*home icon hover effects*/
+     background:rgb(32, 173, 112);
+     color:rgb(53, 63, 54);
+     transition: 0.2s;
+}
+
 
 #navsub{
     display: flex;
