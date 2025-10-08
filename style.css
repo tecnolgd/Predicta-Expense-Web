@@ -86,9 +86,13 @@ button:active{
         padding: 1 rem;
     }
     .nav{
+        display: flex;
+        flex-wrap: wrap;
         width:auto;
+        align-content: center;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
     }
 }
 
@@ -96,6 +100,7 @@ button:active{
     font-family: sans-serif;
     font-weight:50px;
     color:rgb(23, 44, 27)
+    
 }
 .mainfeatures{
     display: flex;
@@ -131,6 +136,7 @@ button:active{
 @media(max-width: 800px){
     .mainfeatures{
         flex-direction: column;
+        justify-content: center;
         align-items: center;
         gap: 1rem;
     }
@@ -159,7 +165,10 @@ button:active{
     justify-content: center;
     height:50px;
     width:75px;
+    
     align-items: center;
+    justify-items: center;
+    justify-content: center;
     transition: background 0.2s;
 }
 .icohome:hover{ /*home icon hover effects*/
@@ -175,6 +184,9 @@ button:active{
     margin-top: 0%;
     flex-direction:row;
     justify-self:start;
+    justify-content: center;
+    width: auto;
+    
 }
 
 .hsub{
