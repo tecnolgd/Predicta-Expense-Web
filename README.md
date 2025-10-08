@@ -41,10 +41,10 @@
 * Convert to **full stack front-end**.
 
 ## Recent add-ons ➕
-- [ ] Sample screenshots
+- [ ] Live Web-link
 - [ ] Comments in source code
-- [ ] Code indentation and clean-up
-- [ ] **Front-end deployment**
+- [x] Code indentation and clean-up
+- [ ] **Front-end deployment**(planned)
 - [ ] Coming soon !
 
 ## Value this repo?💫     
