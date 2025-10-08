@@ -7,13 +7,14 @@
 ### An user friendly web interface with clean UI and smooth UX, based on the '***PredictaExpense-cpp***' CLI.
 ### The web interface incorporates essentials of HTML5 and CSS with modular file approach for easier **readability**, **scaling** and **updating**.
 ---
-(Note: As labelled, the website is a static interface with minimal button operations. The website incorporates only HTML5 and CSS. The release of the project is made for Feedback collection and early insights from fellow devs and tech minds. Your feedback is valuable. Regards, tecnolgd)
+( Note: As labelled, the website is a **static** interface with minimal button operations. The website incorporates only **HTML5** and **CSS**. The release of the project is made for **Feedback collection** and early insights from fellow devs and tech minds. **Your feedback is valuable**.    
+ Regards, tecnolgd )
 ## Features ⚙️
 * User friendly interface
 * Clean and modern UX
 * Sleek UI
-* Smooth functionality
-* All functionalities of '***PredictaExpense-cpp***' CLI
+* Smooth functionality (static operations)
+* Planned functionalities of '***PredictaExpense-cpp***' CLI
 
 ## Tech stack 🪛🪛
 * Languages:
