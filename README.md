@@ -1,6 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/website-Static-red)
 ![Static Badge](https://img.shields.io/badge/interface-Web-lightblue)
-![Static Badge](https://img.shields.io/badge/status-In_-progress-orange)
+![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
+
 
 # Predicta Expense WEB 🌐💰🔮 
  ![Sample Output](logo.png)
