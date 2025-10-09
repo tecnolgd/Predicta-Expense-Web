@@ -46,8 +46,8 @@
 * Convert to **full stack front-end**.
 
 ## Recent add-ons ➕
-* [ ] Live Web-link
-* [ ] Comments in source code
+* [x] Live Web-link
+* [x] Comments in source code
 * [x] Code indentation and clean-up
 * [ ] **Front-end deployment**(planned)
 * [ ] Coming soon !
