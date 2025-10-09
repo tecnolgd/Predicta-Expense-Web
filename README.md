@@ -35,7 +35,7 @@
 
 ## How to RUN 🔛
 * Open the live-link given below to access the website :
-      ***weblink*** (*by github pages*)
+      *https://tecnolgd.github.io/Predicta-Expense-Web* (*by Github pages*)
 
 ## Future Upgrades  🚀🚀
 * Refractor of code using Javascript.
