@@ -1,7 +1,7 @@
-![Static Badge](https://img.shields.io/badge/website-Static-red)
-![Static Badge](https://img.shields.io/badge/interface-Web-lightblue)
+![Static Badge](https://img.shields.io/badge/website-Static-crimson)
+![Static Badge](https://img.shields.io/badge/interface-Web-blue)
 ![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
-
+![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
 
 # Predicta Expense WEB 🌐💰🔮 
  ![Sample Output](logo.png)
@@ -11,6 +11,7 @@
 ---
 ( Note: As labelled, the website is a **static** interface with minimal button operations. The website incorporates only **HTML5** and **CSS**. The release of the project is made for **Feedback collection** and early insights from fellow devs and tech minds. **Your feedback is valuable**.    
  Regards, tecnolgd )
+
 ## Features ⚙️
 * User friendly interface
 * Clean and modern UX
