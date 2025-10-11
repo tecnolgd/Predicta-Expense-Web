@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
 ![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
 ![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
+![Static Badge](https://img.shields.io/badge/feedback-Google_Forms-teal)
 
 # Predicta Expense WEB 🌐💰🔮 
  ![Sample Output](logo.png)
@@ -58,7 +59,7 @@
 
 ## Feedback Guidelines 📜
 * Feedback can be given using the **Issues/Feedback** button in the homepage of the website.
-* This button will direct the user to the github **Issues** tab of the repository.
+* This button will direct the user to the feedback page with an integrated **Google form**(for non-github users/minimal braincells usage)
 * Users are recommended to give **honest** feedback for the website.
 * Feedback can be for topics like *color palatte*, *responsiveness*, *UI*, *UX*, *overall feel and user-friendliness*, etc.
 * Please be respectful in your feedback.
