@@ -46,6 +46,7 @@
 * [x] Live Web-link
 * [x] Comments in source code
 * [x] Code indentation and clean-up
+* [ ] Feedback option for **non-github users**.
 * [ ] **Front-end deployment**(planned)
 * [ ] Coming soon !
 
@@ -67,7 +68,6 @@
 * As mentioned, the project / website is currently in a young stage, where its only a static site with some button operations.     
 * As planned, **the website would be developed as a frontend** in the coming days as the roadmap.    
 * **Getting feedback early** for incorporating any changes in the base structure of the website would be a **sensible risk** for the final working website.
-
 
 ## Value this repo?💫     
 * If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
