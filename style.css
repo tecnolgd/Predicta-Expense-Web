@@ -43,7 +43,9 @@ button:active{
     flex-wrap:wrap;
     gap:0.2rem;
     justify-items: center;
+    justify-content: space-around;
     width: auto;
+    height: auto;
     padding:1rem 0 ;
     flex-direction: row;
     align-items: center;
@@ -126,6 +128,7 @@ button:active{
     flex-direction: column;
     align-items: center;
     justify-items: center;
+    justify-content: space-around;
     text-align: center;
     transition: box-shadow 1s;
 }
