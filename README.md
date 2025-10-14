@@ -42,12 +42,13 @@
 * **Cross-device** compatibility.
 * Add new data representation.
 * Convert to **full stack front-end**.
+* **Gold nugget**: ML model for predictive insights rather than stale averaeg_of_expense formula.
 
 ## Recent add-ons ➕
 * [x] Live Web-link
 * [x] Comments in source code
 * [x] Code indentation and clean-up
-* [ ] Feedback option for **non-github users**.
+* [x] Feedback option for **non-github users**.
 * [ ] **Front-end deployment**(planned)
 * [ ] Coming soon !
 
