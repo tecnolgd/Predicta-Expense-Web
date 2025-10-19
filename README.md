@@ -49,7 +49,7 @@
 * [x] Comments in source code
 * [x] Code indentation and clean-up
 * [x] Feedback option for **non-github users**.
-* [x] Issue tab shortcut for Github geeks
+* [x] Issue tab shortcut for Github users.
 * [ ] **Front-end deployment**(planned)
 * [ ] Coming soon !
 
