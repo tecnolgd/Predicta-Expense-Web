@@ -54,7 +54,7 @@
 * [ ] Coming soon !
 
 ## Privacy Note 🔒
-* This project is solely made for **educational** and Feedback-based learning for improving Web development skills and get **insights** from fellow devs and tech geeks.
+* This project is solely made for **educational** and Feedback-based learning for improving Web development skills and get **insights** from fellow devs, tech geeks and users around the world.
 * This project uses **Google Analytics (GA4)** for feedback collection based on user engagement and various other traffic.
 * Personal data of visitors **won't** be collected in any means.
 * **Feedback based** learning is the sole objective of this project.
@@ -78,6 +78,7 @@
 ---
 #### Author  
   ***tecnolgd***
+
 
 
 
