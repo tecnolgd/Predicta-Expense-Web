@@ -56,13 +56,13 @@
 ## Privacy Note 🔒
 * This project is solely made for **educational** and Feedback-based learning for improving Web development skills and get **insights** from fellow devs and tech geeks.
 * This project uses **Google Analytics (GA4)** for feedback collection based on user engagement and various other traffic.
-* Personal data of visitors **won't be collected** in any means.
+* Personal data of visitors **won't** be collected in any means.
 * **Feedback based** learning is the sole objective of this project.
 
 ## Feedback Guidelines 📜
 * Feedback can be given using the **Issues/Feedback** button in the homepage of the website.
 * This button will direct the user to the feedback page with an integrated **Google form**(for non-github users/minimal braincells usage)
-* Users are recommended to give **honest** feedback for the website.
+* Users are recommended to give honest feedback for the website.
 * Feedback can be for topics like *color palatte*, *responsiveness*, *UI*, *UX*, *overall feel and user-friendliness*, etc.
 * Please be respectful in your feedback.
 * Your **feedbacks are appreciated** and means a lot.
