@@ -63,7 +63,7 @@
 * Feedback can be given using the **Issues/Feedback** button in the homepage of the website.
 * This button will direct the user to the feedback page with an integrated **Google form**(for non-github users/minimal braincells usage)
 * Users are recommended to give honest feedback for the website.
-* Feedback can be for topics like *color palatte*, *responsiveness*, *UI*, *UX*, *overall feel and user-friendliness*, etc.
+* Feedback can be given for features like *color palatte*, *responsiveness*, *UI*, *UX*, *overall feel and user-friendliness*, etc.
 * Please be respectful in your feedback.
 * Your **feedbacks are appreciated** and means a lot.
 
