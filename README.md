@@ -67,11 +67,6 @@
 * Please be respectful in your feedback.
 * Your **feedbacks are appreciated** and means a lot.
 
-## Aim of the Feedback collection 🎯
-* As mentioned, the project / website is currently in a young stage, where its only a static site with some button operations.     
-* As planned, the website would be developed as a **frontend** in the coming days.    
-* **Getting feedback early** for incorporating any changes in the base structure of the website would be a **sensible risk** for the final working website.
-
 ## Value this repo?💫     
 * If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
 * Open for feedbacks or knowlegde exchange.
