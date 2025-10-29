@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
 ![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
 ![Static Badge](https://img.shields.io/badge/feedback-Google_Forms-teal)
+![Travis (.com)](https://img.shields.io/travis/com//REPO_NAME)
 
 # Predicta Expense WEB 🌐💰🔮 
  ![Sample Output](logo.png)
@@ -73,6 +74,7 @@
 ---
 #### Author  
   ***tecnolgd***
+
 
 
 
