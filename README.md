@@ -51,6 +51,7 @@
 * [x] Feedback option for **non-github users**.
 * [x] Issue tab shortcut for Github users.
 * [ ] **Front-end deployment**(planned)
+* [ ] Updated Google form.
 * [ ] Coming soon !
 
 ## Privacy Note 🔒
@@ -73,6 +74,7 @@
 ---
 #### Author  
   ***tecnolgd***
+
 
 
 
