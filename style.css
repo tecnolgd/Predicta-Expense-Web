@@ -20,8 +20,8 @@ button{ /*navigation button styling*/
     border-radius:8px;
     border-style:double;
     box-shadow:0 2px rgb(96, 147, 96);
-    width: 200px;
-    height: 50px;
+    width: 180px;
+    height: 40px;
     border-color: lightgreen;
     text-align:center;
     transition: background 0.2s;
@@ -128,7 +128,7 @@ button:active{
     flex-direction: column;
     align-items: center;
     justify-items: center;
-    justify-content: space-around;
+    justify-content: center;
     text-align: center;
     transition: box-shadow 1s;
 }
@@ -136,13 +136,14 @@ button:active{
     background: rgb(192, 244, 217);
 }
 
-@media(max-width: 800px){
+@media(max-width: 768px){
     .mainfeatures{
         flex-direction: column;
         justify-content: center;
         align-items: center;
         align-content: center;
         gap: 1rem;
+        
     }
     .features{
         width: 95%;
