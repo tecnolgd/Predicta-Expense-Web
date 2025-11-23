@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/github/license/tecnolgd/Predicta-Expense-Web.svg)
 ![Static Badge](https://img.shields.io/badge/website-Static-crimson)
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
 ![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
@@ -74,6 +75,7 @@
 
 Author  
   ***tecnolgd***
+
 
 
 
