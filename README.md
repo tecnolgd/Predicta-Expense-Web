@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/website-Static-crimson)
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
-![Static Badge](https://img.shields.io/badge/status-In_progress-orange)
+![Static Badge](https://img.shields.io/badge/status-Paused-darkorange)
 ![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
 ![Static Badge](https://img.shields.io/badge/feedback-Google_Forms-teal)
 
@@ -74,15 +74,3 @@
 
 Author  
   ***tecnolgd***
-
-
-
-
-
-
-
-
-
-
-
-
