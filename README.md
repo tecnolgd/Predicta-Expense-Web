@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/interface-Web-blue)
 ![Static Badge](https://img.shields.io/badge/status-Paused-darkorange)
 ![Static Badge](https://img.shields.io/badge/integration-GA4-yellowgreen)
-![Static Badge](https://img.shields.io/badge/feedback-Google_Forms-teal)
+![Static Badge](https://img.shields.io/badge/feedback-Google_Forms_(closed)-pink)
 
 # Predicta Expense WEB 🌐💰🔮 
  ![Sample Output](logo.png)
@@ -61,7 +61,7 @@
 * Personal data of visitors **won't** be collected in any means.
 * **Feedback based** learning is the sole objective of this project.
 
-## Feedback Guidelines 📜
+## Feedback Guidelines 📜(closed)
 * Feedback can be given using the **Issues/Feedback** button in the homepage of the website.
 * This button will direct the user to the feedback page with an integrated **Google form**(for non-github users/minimal braincells usage)
 * Users are recommended to give honest feedback for the website.
